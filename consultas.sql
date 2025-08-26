@@ -66,10 +66,6 @@ ALTER TABLE Articulos
 ADD CONSTRAINT check_tipo 
 CHECK (tipo_articulo IN ('plastico', 'vidrio', 'metal'));
 
--- Agregar validación de fechas en Citas
-ALTER TABLE Citas
-ADD CONSTRAINT check_fecha 
-CHECK (fecha_hora > CURRENT_TIMESTAMP);
 
 --Insertar registros de clientes que solicitan el servicio
 INSERT INTO Clientes (nombre, telefono, direccion) VALUES
