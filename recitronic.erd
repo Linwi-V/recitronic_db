@@ -4,13 +4,13 @@
   "settings": {
     "width": 2000,
     "height": 2000,
-    "scrollTop": -599.1746,
-    "scrollLeft": -512.4144,
-    "zoomLevel": 0.46,
+    "scrollTop": -394.6425,
+    "scrollLeft": -486.6666,
+    "zoomLevel": 0.94,
     "show": 511,
     "database": 4,
     "databaseName": "",
-    "canvasType": "@dineug/erd-editor/builtin-schema-sql",
+    "canvasType": "ERD",
     "language": 1,
     "tableNameCase": 4,
     "columnNameCase": 2,
@@ -96,14 +96,14 @@
         ],
         "ui": {
           "x": 1126.4928,
-          "y": 245.6668,
+          "y": 246.7306,
           "zIndex": 62,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1756172591890,
+          "updateAt": 1756174319914,
           "createAt": 1756172092204
         }
       },
@@ -125,15 +125,15 @@
           "QD4DsqP_YNjTlIFqdqiYy"
         ],
         "ui": {
-          "x": 11.6667,
-          "y": 255.8336,
+          "x": 10.6029,
+          "y": 259.0251,
           "zIndex": 134,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1756172579128,
+          "updateAt": 1756174309528,
           "createAt": 1756172262700
         }
       },
@@ -143,15 +143,19 @@
         "comment": "",
         "columnIds": [
           "kMDp28wViGcSqz5D_AnWQ",
-          "3bMXkBcQEmQQJVu5qogHa"
+          "3bMXkBcQEmQQJVu5qogHa",
+          "_VhArs_mMfnWzy7fZxdIa",
+          "Ig0JVH_xFEjvPbc5tte3i"
         ],
         "seqColumnIds": [
           "kMDp28wViGcSqz5D_AnWQ",
           "wNTSHnzkhMriVNrJA3-1W",
-          "3bMXkBcQEmQQJVu5qogHa"
+          "3bMXkBcQEmQQJVu5qogHa",
+          "_VhArs_mMfnWzy7fZxdIa",
+          "Ig0JVH_xFEjvPbc5tte3i"
         ],
         "ui": {
-          "x": 557.7884,
+          "x": 555.6608,
           "y": 538.1121,
           "zIndex": 191,
           "widthName": 60,
@@ -159,7 +163,7 @@
           "color": ""
         },
         "meta": {
-          "updateAt": 1756172581853,
+          "updateAt": 1756174315782,
           "createAt": 1756172421699
         }
       }
@@ -564,6 +568,46 @@
           "updateAt": 1756172479192,
           "createAt": 1756172479192
         }
+      },
+      "_VhArs_mMfnWzy7fZxdIa": {
+        "id": "_VhArs_mMfnWzy7fZxdIa",
+        "tableId": "uaWF7GSAuR3C-58Q0aFb3",
+        "name": "monto",
+        "comment": "",
+        "dataType": "DECIMAL",
+        "default": "",
+        "options": 8,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1756174268331,
+          "createAt": 1756174247268
+        }
+      },
+      "Ig0JVH_xFEjvPbc5tte3i": {
+        "id": "Ig0JVH_xFEjvPbc5tte3i",
+        "tableId": "uaWF7GSAuR3C-58Q0aFb3",
+        "name": "fecha_pago",
+        "comment": "",
+        "dataType": "DATETIME",
+        "default": "",
+        "options": 8,
+        "ui": {
+          "keys": 0,
+          "widthName": 63,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1756174278379,
+          "createAt": 1756174258827
+        }
       }
     },
     "relationshipEntities": {
@@ -587,7 +631,7 @@
             "sx5p8mg7Oab7YB9hbLLvA"
           ],
           "x": 1126.4928,
-          "y": 321.66679999999997,
+          "y": 322.7306,
           "direction": 1
         },
         "meta": {
@@ -642,8 +686,8 @@
           "columnIds": [
             "mN_FBq3wY3QlS9AoBTzxf"
           ],
-          "x": 429.6667,
-          "y": 319.8336,
+          "x": 428.6029,
+          "y": 323.0251,
           "direction": 2
         },
         "meta": {
@@ -670,7 +714,7 @@
           "columnIds": [
             "3bMXkBcQEmQQJVu5qogHa"
           ],
-          "x": 766.7884,
+          "x": 766.1608,
           "y": 538.1121,
           "direction": 4
         },

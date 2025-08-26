@@ -32,6 +32,8 @@ CREATE TABLE Pagos
   id_pagos   INT NOT NULL AUTO_INCREMENT,
   id_cliente INT NOT NULL,
   PRIMARY KEY (id_pagos)
+  monto DECIMAL(10, 2) NOT NULL
+  fecha_pago DATETIME NOT NULL
 );
 
 ALTER TABLE Articulos
