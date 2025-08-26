@@ -4,13 +4,19 @@
   "settings": {
     "width": 2000,
     "height": 2000,
+<<<<<<< HEAD
     "scrollTop": -375.8633,
     "scrollLeft": -354.7443,
     "zoomLevel": 0.76,
+=======
+    "scrollTop": -394.6425,
+    "scrollLeft": -486.6666,
+    "zoomLevel": 0.94,
+>>>>>>> 8c1929072a3bf48f9915d94a44954314bffb4ff9
     "show": 511,
     "database": 4,
     "databaseName": "",
-    "canvasType": "@dineug/erd-editor/builtin-schema-sql",
+    "canvasType": "ERD",
     "language": 1,
     "tableNameCase": 4,
     "columnNameCase": 2,
@@ -96,14 +102,14 @@
         ],
         "ui": {
           "x": 1126.4928,
-          "y": 245.6668,
+          "y": 246.7306,
           "zIndex": 62,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1756172591890,
+          "updateAt": 1756174319914,
           "createAt": 1756172092204
         }
       },
@@ -125,15 +131,15 @@
           "QD4DsqP_YNjTlIFqdqiYy"
         ],
         "ui": {
-          "x": 11.6667,
-          "y": 255.8336,
+          "x": 10.6029,
+          "y": 259.0251,
           "zIndex": 134,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1756172579128,
+          "updateAt": 1756174309528,
           "createAt": 1756172262700
         }
       },
@@ -144,18 +150,28 @@
         "columnIds": [
           "kMDp28wViGcSqz5D_AnWQ",
           "3bMXkBcQEmQQJVu5qogHa",
+<<<<<<< HEAD
           "jYfhwWOBJC3dhasR07qDp",
           "OFPpd041YYXNoj6QDzBay"
+=======
+          "_VhArs_mMfnWzy7fZxdIa",
+          "Ig0JVH_xFEjvPbc5tte3i"
+>>>>>>> 8c1929072a3bf48f9915d94a44954314bffb4ff9
         ],
         "seqColumnIds": [
           "kMDp28wViGcSqz5D_AnWQ",
           "wNTSHnzkhMriVNrJA3-1W",
           "3bMXkBcQEmQQJVu5qogHa",
+<<<<<<< HEAD
           "jYfhwWOBJC3dhasR07qDp",
           "OFPpd041YYXNoj6QDzBay"
+=======
+          "_VhArs_mMfnWzy7fZxdIa",
+          "Ig0JVH_xFEjvPbc5tte3i"
+>>>>>>> 8c1929072a3bf48f9915d94a44954314bffb4ff9
         ],
         "ui": {
-          "x": 557.7884,
+          "x": 555.6608,
           "y": 538.1121,
           "zIndex": 191,
           "widthName": 60,
@@ -163,7 +179,11 @@
           "color": ""
         },
         "meta": {
+<<<<<<< HEAD
           "updateAt": 1756176360982,
+=======
+          "updateAt": 1756174315782,
+>>>>>>> 8c1929072a3bf48f9915d94a44954314bffb4ff9
           "createAt": 1756172421699
         }
       }
@@ -569,8 +589,13 @@
           "createAt": 1756172479192
         }
       },
+<<<<<<< HEAD
       "jYfhwWOBJC3dhasR07qDp": {
         "id": "jYfhwWOBJC3dhasR07qDp",
+=======
+      "_VhArs_mMfnWzy7fZxdIa": {
+        "id": "_VhArs_mMfnWzy7fZxdIa",
+>>>>>>> 8c1929072a3bf48f9915d94a44954314bffb4ff9
         "tableId": "uaWF7GSAuR3C-58Q0aFb3",
         "name": "monto",
         "comment": "",
@@ -585,12 +610,21 @@
           "widthDefault": 60
         },
         "meta": {
+<<<<<<< HEAD
           "updateAt": 1756176356370,
           "createAt": 1756176347312
         }
       },
       "OFPpd041YYXNoj6QDzBay": {
         "id": "OFPpd041YYXNoj6QDzBay",
+=======
+          "updateAt": 1756174268331,
+          "createAt": 1756174247268
+        }
+      },
+      "Ig0JVH_xFEjvPbc5tte3i": {
+        "id": "Ig0JVH_xFEjvPbc5tte3i",
+>>>>>>> 8c1929072a3bf48f9915d94a44954314bffb4ff9
         "tableId": "uaWF7GSAuR3C-58Q0aFb3",
         "name": "fecha_pago",
         "comment": "",
@@ -605,8 +639,13 @@
           "widthDefault": 60
         },
         "meta": {
+<<<<<<< HEAD
           "updateAt": 1756176372316,
           "createAt": 1756176360982
+=======
+          "updateAt": 1756174278379,
+          "createAt": 1756174258827
+>>>>>>> 8c1929072a3bf48f9915d94a44954314bffb4ff9
         }
       }
     },
@@ -631,7 +670,7 @@
             "sx5p8mg7Oab7YB9hbLLvA"
           ],
           "x": 1126.4928,
-          "y": 321.66679999999997,
+          "y": 322.7306,
           "direction": 1
         },
         "meta": {
@@ -686,8 +725,8 @@
           "columnIds": [
             "mN_FBq3wY3QlS9AoBTzxf"
           ],
-          "x": 429.6667,
-          "y": 319.8336,
+          "x": 428.6029,
+          "y": 323.0251,
           "direction": 2
         },
         "meta": {
@@ -714,7 +753,11 @@
           "columnIds": [
             "3bMXkBcQEmQQJVu5qogHa"
           ],
+<<<<<<< HEAD
           "x": 768.2884,
+=======
+          "x": 766.1608,
+>>>>>>> 8c1929072a3bf48f9915d94a44954314bffb4ff9
           "y": 538.1121,
           "direction": 4
         },
